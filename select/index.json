@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "base_track": "First Love",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-03-19T16:58:10.086635Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_First_Love_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_First_Love_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_First_Love_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My First Love Song",
+      "artist": "Mellowdrone",
+      "has_synced": true,
+      "path": "select/04_My_First_Love_Song_Mellowdrone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/05_First_Love_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/06_First_Love_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First Love (Remot remix)",
+      "artist": "Mick Boogie vs Adele",
+      "has_synced": true,
+      "path": "select/07_First_Love_(Remot_remix)_Mick_Boogie_vs_Adele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "First Love (Remot Remix Feat. Naledge)",
+      "artist": "Mick Boogie & Adele",
+      "has_synced": true,
+      "path": "select/08_First_Love_(Remot_Remix_Feat._Naledge)_Mick_Boogie_&_Adele.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Uffie",
+      "has_synced": true,
+      "path": "select/09_First_Love_Uffie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Love / Late Spring",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/10_First_Love___Late_Spring_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Masayuki Suzuki",
+      "has_synced": false,
+      "path": "select/11_First_Love_Masayuki_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/12_First_Love_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "First Love (Original Karaoke)",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/13_First_Love_(Original_Karaoke)_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "First Love",
+      "artist": "Eloise",
+      "has_synced": false,
+      "path": "select/14_First_Love_Eloise.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "First Love",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_First_Love_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "First Love",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/localdb_01_First_Love_Hikaru_Utada.lrc",
+      "repo_name": "rRhfpdyvQ5Y"
+    }
+  ]
+}
